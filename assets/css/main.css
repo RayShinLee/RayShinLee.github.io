@@ -3697,7 +3697,7 @@ input, select, textarea {
 
 		#footer > * {
 			width: calc(50% - 2em);
-			margin-left: 2em;
+			margin-left: 15em;
 		}
 
 		#footer .copyright {
