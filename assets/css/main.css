@@ -178,6 +178,9 @@ input, select, textarea {
 	}
 
 	p {
+		width: 600px;
+  		height: 200px;
+    		text-align: justify;
 		margin: 0 0 2em 0;
 	}
 
