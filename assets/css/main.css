@@ -3122,6 +3122,7 @@ input, select, textarea {
 					display: block;
 					margin: 0 auto;
 					max-width: 75%;
+					border-radius: 50%;
 				}
 
 		@media screen and (max-width: 1280px) {
@@ -3697,7 +3698,7 @@ input, select, textarea {
 
 		#footer > * {
 			width: calc(50% - 2em);
-			margin-left: 15em;
+			margin-left: 25em;
 		}
 
 		#footer .copyright {
