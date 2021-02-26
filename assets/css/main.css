@@ -181,6 +181,24 @@ input, select, textarea {
 		margin: 0 0 2em 0;
 	}
 
+		p.project{
+			  margin: 0 4em 0;
+  			  width: 250px;
+			  text-align: justify;
+		}
+
+		p.project1{
+			  margin: 0 4em 0;
+  			  width: 270px;
+			  text-align: justify;
+		}
+
+		p.m{
+			 margin: 0 0 2em 0;
+			 text-align: justify;
+			 width: 500px;
+		}
+
 		p.content {
 			-moz-columns: 20em 2;
 			-webkit-columns: 20em 2;
