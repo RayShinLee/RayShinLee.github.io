@@ -161,7 +161,7 @@ input, select, textarea {
 		-ms-transition: color 0.2s ease, border-bottom 0.2s ease;
 		transition: color 0.2s ease, border-bottom 0.2s ease;
 		text-decoration: none;
-		border-bottom: dotted 1px;
+		/*border-bottom: dotted 1px*/;
 		color: inherit;
 	}
 
@@ -200,7 +200,7 @@ input, select, textarea {
 		}
 
 		p.m1{
-			 margin: 0 30em;
+			 margin: 0 35em;
 			 text-align: justify;
 			 width: 500px;
 		}
@@ -245,6 +245,11 @@ input, select, textarea {
 		font-size: 25px;
 		font-family: monospace;
 		font-weight: 600;
+		padding: 0.5em 1em;
+		}
+
+	h2.projbg{
+		padding: 0 0 0 23em;
 		}
 
 	h3 {
