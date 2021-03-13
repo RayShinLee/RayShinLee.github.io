@@ -199,6 +199,12 @@ input, select, textarea {
 			 width: 500px;
 		}
 
+		p.m1{
+			 margin: 0 30em;
+			 text-align: justify;
+			 width: 500px;
+		}
+
 		p.content {
 			-moz-columns: 20em 2;
 			-webkit-columns: 20em 2;
