@@ -23,7 +23,7 @@ section, summary, time, mark, audio, video {
 	border: 0;
 	font-size: 100%;
 	font: inherit;
-	vertical-align: baseline;}
+	/*vertical-align: baseline;*/}
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
@@ -237,6 +237,15 @@ input, select, textarea {
 	h2 {
 		font-size: 1.5em;
 	}
+	
+	h2.head {
+		background-color: transparent;
+    		/* box-shadow: inset 0 0 0 1px rgb(255 255 255 / 35%); */
+		color: #ffffff !important;
+		font-size: 25px;
+		font-family: monospace;
+		font-weight: 600;
+		}
 
 	h3 {
 		font-size: 1.25em;
@@ -3138,7 +3147,7 @@ video {
 		}
 
 		#header.alt {
-			padding: 5em 4em 5em ;/*original: 7em 5em 4em 5em*/
+			padding: 2em 4em 2em ;/*original: 7em 5em 4em 5em*/
 		}
 
 			#header.alt h1 {
