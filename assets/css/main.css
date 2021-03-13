@@ -3124,7 +3124,7 @@ video {
 /* Header */
 
 	#header {
-		padding: 5em 5em 1em 5em ;
+		padding: 3em 5em 1em 5em ;
 		text-align: center;
 	}
 
@@ -3138,7 +3138,7 @@ video {
 		}
 
 		#header.alt {
-			padding: 7em 5em 4em 5em ;
+			padding: 5em 4em 5em ;/*original: 7em 5em 4em 5em*/
 		}
 
 			#header.alt h1 {
@@ -3743,9 +3743,9 @@ video {
 		-webkit-flex-wrap: wrap;
 		-ms-flex-wrap: wrap;
 		flex-wrap: wrap;
-		padding: 5em 5em 3em 5em ;
+		padding: 2em 5em 2em 4em ;
 		width: calc(100% + 2em);
-		margin: 0 0 3em -2em;
+		/*margin: 0 0 3em -2em;*/
 	}
 
 		#footer > * {
