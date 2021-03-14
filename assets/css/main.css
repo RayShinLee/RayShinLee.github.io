@@ -2470,8 +2470,8 @@ input, select, textarea {
 			}
 
 		* {box-sizing:border-box}
-		.slide {
-			max-width: 400px;
+		.slideshow-container {
+			max-width: 500px;
 			position: relative;
 			margin: auto;
 			}
