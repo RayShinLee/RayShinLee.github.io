@@ -241,7 +241,7 @@ input, select, textarea {
 	h2.logo {
 		background-color: transparent;
     		/* box-shadow: inset 0 0 0 1px rgb(255 255 255 / 35%); */
-		color: #636363 !important;
+		color: #white !important;
 		font-size: 25px;
 		font-family: monospace;
 		font-weight: 600;
@@ -253,7 +253,7 @@ input, select, textarea {
     		/* box-shadow: inset 0 0 0 1px rgb(255 255 255 / 35%); */
 		color: #636363 !important;
 		font-size: 25px;
-		font-family: monospace;
+		/*font-family: monospace;*/
 		font-weight: 600;
 		margin: 0 26em;
 		}
