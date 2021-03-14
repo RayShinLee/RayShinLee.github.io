@@ -245,7 +245,7 @@ input, select, textarea {
 		font-size: 25px;
 		font-family: monospace;
 		font-weight: 600;
-		margin: 0 35em;
+		margin: 0 3em;
 		}
 
 	h2.projbg{
@@ -2478,6 +2478,7 @@ input, select, textarea {
 
 video {
 	margin: 0 5em 0;
+	float: left;
 }
 
 /* List */
