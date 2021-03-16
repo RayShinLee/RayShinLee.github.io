@@ -1,3 +1,3 @@
 ## RayShinLee personal website
-Design from HTML5
-Consists of CV, Experience and Projects
+1. Design from HTML5
+2. Consists of CV, Experience and Projects
