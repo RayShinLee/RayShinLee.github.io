@@ -3863,7 +3863,7 @@ video {
 		-webkit-flex-wrap: wrap;
 		-ms-flex-wrap: wrap;
 		flex-wrap: wrap;
-		padding: 2em 5em 2em 4em ;
+		/*padding: 2em 5em 2em 4em ;*/
 		width: calc(100% + 2em);
 		/*margin: 0 0 3em -2em;*/
 	}
