@@ -183,7 +183,7 @@ input, select, textarea {
 
 		p.project{
 			  margin: 0 4em 0;
-  			  width: 250px;
+  			  /*width: 250px;*/
 			  text-align: justify;
 		}
 
@@ -2038,7 +2038,7 @@ input, select, textarea {
 		border: none;
 		color: white;
 		text-align: center;
-		font-size: 30px;
+		font-size: 25px;
 		margin: 4px 2px;
 		opacity: 1;
 		transition: 0.3s;
