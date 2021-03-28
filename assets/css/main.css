@@ -333,6 +333,10 @@ input, select, textarea {
 		margin: 2em 0;
 	}
 
+	hr.solid {
+	  border-top: 3px solid #bbb;
+	}
+
 		hr.major {
 			margin: 3em 0;
 		}
